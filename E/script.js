@@ -10,10 +10,29 @@ let learnedWords = JSON.parse(localStorage.getItem('learnedWords') || '[]');
 // 记录当前题库文件名
 let currentBankFile = '';
 
-// 获取 bank 文件夹中的文件列表（硬编码文件列表）
+// 获取 bank 文件夹中的文件列表
 function fetchBankList() {
-    const files = ['E1.txt','E2.txt']; // 手动添加你的题库文件名
-    displayBankList(files);
+    fetch('bank/')
+        .then(response => {
+            if (response.ok) {
+                return response.text();
+            } else {
+                throw new Error('无法获取文件列表');
+            }
+        })
+        .then(text => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            const links = Array.from(doc.querySelectorAll('a'));
+            const files = links
+                .map(link => link.getAttribute('href'))
+                .filter(name => name.endsWith('.txt'));
+            displayBankList(files);
+        })
+        .catch(err => {
+            console.error(err);
+            alert('无法获取题库列表，请确保您已正确设置了服务器。');
+        });
 }
 
 function displayBankList(files) {
@@ -155,20 +174,60 @@ function showQuestion() {
             document.getElementById('options').appendChild(btn);
         });
     } else if (currentMode === 'flip') {
-        // 翻转模式
         const contentDiv = document.getElementById('question-content');
         contentDiv.innerHTML = `
             <h3>${currentWord.word} <span class="text-muted">${currentWord.phonetic}</span></h3>
             <p><strong>例句：</strong>${currentWord.example}</p>
         `;
         contentDiv.classList.add('flip');
+    
+        // 移除之前的事件监听器
         contentDiv.removeEventListener('mousedown', flipContent);
         contentDiv.removeEventListener('mouseup', flipContentBack);
+        contentDiv.removeEventListener('touchstart', flipContentTouch);
+        contentDiv.removeEventListener('touchend', flipContentBackTouch);
+    
+        // 添加鼠标事件监听器（桌面设备）
         contentDiv.addEventListener('mousedown', flipContent);
         contentDiv.addEventListener('mouseup', flipContentBack);
+    
+        // 添加触摸事件监听器（移动设备）
+        contentDiv.addEventListener('touchstart', flipContentTouch);
+        contentDiv.addEventListener('touchend', flipContentBackTouch);
+    
         document.getElementById('next-question').style.display = 'block';
         document.getElementById('next-question').onclick = nextQuestion;
     }
+    
+    // 新增触摸事件处理函数
+    function flipContentTouch(event) {
+        event.preventDefault(); // 防止默认的触摸行为
+        flipContent();
+    }
+    
+    function flipContentBackTouch(event) {
+        event.preventDefault();
+        flipContentBack();
+    }
+    
+    // 原有的翻转内容函数
+    function flipContent() {
+        const currentWord = wordList[currentQuestionIndex];
+        const contentDiv = document.getElementById('question-content');
+        contentDiv.innerHTML = `
+            <h3>${currentWord.definition}</h3>
+            <p><strong>例句翻译：</strong>${currentWord.translation}</p>
+        `;
+    }
+    
+    function flipContentBack() {
+        const currentWord = wordList[currentQuestionIndex];
+        const contentDiv = document.getElementById('question-content');
+        contentDiv.innerHTML = `
+            <h3>${currentWord.word} <span class="text-muted">${currentWord.phonetic}</span></h3>
+            <p><strong>例句：</strong>${currentWord.example}</p>
+        `;
+    }    
 }
 
 // 翻转内容
