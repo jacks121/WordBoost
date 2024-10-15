@@ -8,11 +8,27 @@ let wrongAnswers = [];
 let learnedWords = JSON.parse(localStorage.getItem('learnedWords') || '[]');
 
 // 记录当前题库文件名
-let currentBankFile = 'E1.txt'; // Hard-coded filename
+let currentBankFile = '';
 
-// Removed fetchBankList and displayBankList functions
+// 获取 bank 文件夹中的文件列表（硬编码文件列表）
+function fetchBankList() {
+    const files = ['E1.txt','E2.txt']; // 手动添加你的题库文件名
+    displayBankList(files);
+}
 
-// 选择题库 (Modified to load the hard-coded file)
+function displayBankList(files) {
+    const bankList = document.getElementById('bank-list');
+    bankList.innerHTML = '';
+    files.forEach(file => {
+        const li = document.createElement('li');
+        li.className = 'list-group-item';
+        li.innerText = file;
+        li.addEventListener('click', () => selectBank(file));
+        bankList.appendChild(li);
+    });
+}
+
+// 选择题库
 function selectBank(filename) {
     currentBankFile = filename;
     fetch(`bank/${filename}`)
@@ -41,7 +57,7 @@ function selectBank(filename) {
 function parseMarkdownTable(markdown) {
     const lines = markdown.trim().split('\n');
     const data = [];
-    for (let i = 2; i < lines.length; i++) { // Assuming first two lines are headers
+    for (let i = 2; i < lines.length; i++) {
         const line = lines[i].trim();
         if (line.startsWith('|') && line.endsWith('|')) {
             const cells = line.split('|').slice(1, -1).map(cell => cell.trim());
@@ -67,6 +83,7 @@ function startQuiz(mode) {
     currentQuestionIndex = 0;
     score = 0;
     wrongAnswers = [];
+    document.getElementById('bank-selection').style.display = 'none';
     document.getElementById('mode-selection').style.display = 'none';
     document.getElementById('quiz-section').style.display = 'block';
     updateTotalQuestions();
@@ -287,9 +304,4 @@ document.getElementById('restart-quiz').addEventListener('click', () => {
     document.getElementById('mode-selection').style.display = 'block';
 });
 
-// Modify window.onload to load the hard-coded bank file
-window.onload = () => {
-    // Hide bank selection if present
-    // document.getElementById('bank-selection').style.display = 'none'; // If you have a bank-selection section
-    selectBank(currentBankFile);
-};
+window.onload = fetchBankList;
