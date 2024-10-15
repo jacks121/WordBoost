@@ -10,29 +10,10 @@ let learnedWords = JSON.parse(localStorage.getItem('learnedWords') || '[]');
 // 记录当前题库文件名
 let currentBankFile = '';
 
-// 获取 bank 文件夹中的文件列表
+// 获取 bank 文件夹中的文件列表（硬编码文件列表）
 function fetchBankList() {
-    fetch('bank/')
-        .then(response => {
-            if (response.ok) {
-                return response.text();
-            } else {
-                throw new Error('无法获取文件列表');
-            }
-        })
-        .then(text => {
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(text, 'text/html');
-            const links = Array.from(doc.querySelectorAll('a'));
-            const files = links
-                .map(link => link.getAttribute('href'))
-                .filter(name => name.endsWith('.txt'));
-            displayBankList(files);
-        })
-        .catch(err => {
-            console.error(err);
-            alert('无法获取题库列表，请确保您已正确设置了服务器。');
-        });
+    const files = ['E1.txt','E2.txt']; // 手动添加你的题库文件名
+    displayBankList(files);
 }
 
 function displayBankList(files) {
@@ -227,7 +208,7 @@ function showQuestion() {
             <h3>${currentWord.word} <span class="text-muted">${currentWord.phonetic}</span></h3>
             <p><strong>例句：</strong>${currentWord.example}</p>
         `;
-    }    
+    }
 }
 
 // 翻转内容
