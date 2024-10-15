@@ -1,0 +1,95 @@
+| Word        | Phonetic        | Chinese Definitions                 | Example Sentence                              | Sentence Translation                         |
+|-------------|-----------------|-------------------------------------|-----------------------------------------------|----------------------------------------------|
+| when        | /wɛn/           | 当…时，什么时候                     | When it rains, I like to read a book.         | 下雨的时候，我喜欢看书。                      |
+| been        | /bɪn/           | 已经，到过，去过                     | She has been to Paris twice.                  | 她已经去过巴黎两次。                           |
+| would       | /wʊd/           | 会，愿意，想要                       | I would like a cup of tea, please.            | 我想要一杯茶，谢谢。                           |
+| than        | /ðæn/           | 比，超过                             | She is taller than her brother.               | 她比她的兄弟高。                               |
+| through     | /θruː/          | 通过，穿过，自始至终                 | We walked through the park yesterday.         | 我们昨天穿过公园散步。                         |
+| general     | /ˈdʒɛnərəl/     | 一般的，普遍的，总体的               | In general, people enjoy sunny days.          | 一般来说，人们喜欢晴天。                       |
+| research    | /rɪˈsɜːrtʃ/     | 研究，调查，探索                     | He is conducting research on renewable energy.| 他正在进行可再生能源的研究。                   |
+| university  | /ˌjuːnɪˈvɜːrsəti/| 大学，高等学府                       | She will attend university next year.         | 她明年将上大学。                               |
+| should      | /ʃʊd/           | 应该，应当                           | You should eat more vegetables.               | 你应该多吃蔬菜。                               |
+| policy      | /ˈpɑːləsi/      | 政策，方针，保险单                   | The company has a new privacy policy.         | 公司有一项新的隐私政策。                       |
+| available   | /əˈveɪləbl/     | 可获得的，有空的，可用的             | The book is available in the library.         | 这本书在图书馆有。                             |
+| copyright   | /ˈkɒpiraɪt/     | 版权，著作权                         | She owns the copyright to her photographs.    | 她拥有自己照片的版权。                         |
+| support     | /səˈpɔːrt/      | 支持，支撑，援助                     | They offer support to all their customers.    | 他们为所有客户提供支持。                       |
+| way         | /weɪ/           | 方式，道路，方法                     | There are many ways to solve this problem.    | 有很多方法可以解决这个问题。                     |
+| management  | /ˈmænɪdʒmənt/   | 管理，经营，处理                     | She works in management at a tech company.    | 她在一家科技公司担任管理职位。                   |
+| part        | /pɑːrt/         | 部分，角色，部件                     | He played a major part in the project.        | 他在项目中扮演了重要角色。                       |
+| could       | /kʊd/           | 能够，可能                           | She could help you with your homework.         | 她可以帮助你做作业。                             |
+| great       | /ɡreɪt/         | 伟大的，重要的，极好的               | They had a great time at the party.            | 他们在聚会上玩得很开心。                         |
+| united      | /juˈnaɪtɪd/     | 联合的，一致的                       | The United States is a large country.          | 美国是一个大国家。                               |
+| must        | /mʌst/          | 必须，必需                           | You must wear a helmet when biking.            | 骑自行车时必须戴头盔。                           |
+| travel      | /ˈtrævəl/       | 旅行，游历，移动                     | I love to travel around the world.             | 我喜欢环游世界。                                 |
+| report      | /rɪˈpɔːrt/      | 报告，汇报，报道                     | She will report the findings tomorrow.         | 她将在明天汇报研究结果。                         |
+| member      | /ˈmɛmbər/       | 成员，会员                           | He is a member of the local gym.               | 他是当地健身房的会员。                           |
+| terms       | /tɜːrmz/        | 条款，术语，学期                     | Please read the terms and conditions carefully.| 请仔细阅读条款和条件。                           |
+| before      | /bɪˈfɔːr/       | 在…之前，先于                       | Finish your homework before dinner.            | 晚餐前完成作业。                                 |
+| because     | /bɪˈkɔːz/       | 因为，由于                           | I stayed home because it was raining.          | 因为下雨，我待在家里。                           |
+| those       | /ðoʊz/          | 那些                                 | Those books are mine.                          | 那些书是我的。                                   |
+| education   | /ˌɛdʒuˈkeɪʃən/  | 教育，培养                           | Education is important for personal growth.    | 教育对个人成长很重要。                           |
+| national    | /ˈnæʃənl/       | 国家的，民族的                       | She works for a national newspaper.            | 她在一家国家级报社工作。                         |
+| design      | /dɪˈzaɪn/       | 设计，构思，安排                     | The new design is both functional and stylish. | 新设计既实用又时尚。                             |
+| take        | /teɪk/          | 拿，接受，获得                       | Please take this book with you.                | 请带上这本书。                                   |
+| community   | /kəˈmjuːnɪti/   | 社区，团体                           | The community organized a cleanup event.       | 社区组织了一次清洁活动。                         |
+| within      | /wɪˈðɪn/        | 在…之内                             | You must complete the task within an hour.     | 你必须在一小时内完成任务。                       |
+| shipping    | /ˈʃɪpɪŋ/        | 运输，航运                           | Shipping costs have increased this year.       | 今年运输成本上升了。                             |
+| reserved    | /rɪˈzɜːrvd/     | 保留的，预定的                       | The table is reserved for two.                 | 这张桌子为两人预定的。                           |
+| subject     | /ˈsʌbdʒɪkt/     | 主题，科目，实验对象                 | Mathematics is my favorite subject.            | 数学是我最喜欢的科目。                           |
+| forum       | /ˈfɔːrəm/       | 论坛，讨论会                         | They discussed the issue on the online forum.  | 他们在在线论坛上讨论了这个问题。                   |
+| even        | /ˈiːvən/        | 甚至，即使                           | She didn't even say goodbye.                   | 她甚至没有说再见。                               |
+| special     | /ˈspɛʃəl/       | 特别的，专门的                       | They have a special offer this weekend.        | 他们这个周末有一个特别优惠。                     |
+| being       | /ˈbiːɪŋ/        | 存在，生物                           | Being honest is important.                     | 诚实是很重要的。                                 |
+| sign        | /saɪn/          | 标志，符号，迹象                     | Look at the sign to find the restroom.         | 看标志找到洗手间。                               |
+| technology  | /tɛkˈnɑːlədʒi/  | 技术，工艺                           | Technology is advancing rapidly.               | 技术正在迅速发展。                               |
+| south       | /saʊθ/          | 南方                                 | They traveled south for the winter.            | 他们冬天向南方旅行。                             |
+| section     | /ˈsɛkʃən/       | 部分，章节，部门                     | Please read the first section of the book.     | 请阅读书的第一部分。                             |
+| own         | /oʊn/           | 自己的，拥有                         | She has her own business.                      | 她有自己的生意。                                 |
+| found       | /faʊnd/         | 找到，发现，创立                     | They founded the company in 2010.              | 他们于2010年创立了公司。                         |
+| sports      | /spɔːrts/       | 体育，运动                           | He enjoys playing various sports.              | 他喜欢进行各种运动。                             |
+| related     | /rɪˈleɪtɪd/     | 相关的，有关的                       | These documents are related to the case.        | 这些文件与案件有关。                             |
+| both        | /boʊθ/          | 两者                                 | Both options are viable.                       | 两个选项都是可行的。                             |
+| county      | /ˈkaʊnti/       | 郡，县                               | She lives in a small county.                   | 她住在一个小县城。                               |
+| place       | /pleɪs/         | 地方，场所，职位                     | This is a beautiful place to relax.            | 这里是一个放松的美丽地方。                       |
+| following   | /ˈfɑːloʊɪŋ/     | 如下，跟随                           | Following the instructions, you can assemble it.| 按照说明，你可以组装它。                           |
+| without     | /wɪˈðaʊt/       | 没有，缺乏                           | She left without saying goodbye.               | 她没有说再见就离开了。                           |
+| per         | /pər/           | 每                                   | The cost is $10 per person.                    | 每人费用是10美元。                               |
+| access      | /ˈæksɛs/        | 访问，进入，获取                     | You need a password to access the system.      | 你需要密码才能访问系统。                         |
+| north       | /nɔːrθ/         | 北方                                 | They are heading north for the summer.         | 他们夏天向北方前进。                             |
+| law         | /lɔː/           | 法律，法规                           | Everyone must obey the law.                    | 每个人都必须遵守法律。                           |
+| art         | /ɑːrt/          | 艺术，美术                           | She studies art at the university.             | 她在大学学习艺术。                               |
+| personal    | /ˈpɜːrsənl/     | 个人的，私人的                       | This is a personal matter.                     | 这是私人的事情。                                 |
+| since       | /sɪns/          | 自...以来，鉴于                     | I have lived here since 2015.                   | 我自2015年以来一直住在这里。                     |
+| including   | /ɪnˈkluːdɪŋ/    | 包括，包含                           | The price is $50, including tax.               | 价格是50美元，包括税费。                         |
+| guide       | /ɡaɪd/          | 指南，指引                           | She used a map to guide her journey.            | 她用地图指引她的旅程。                           |
+| directory   | /dəˈrɛktəri/    | 目录，索引                           | You can find the information in the directory. | 你可以在目录中找到信息。                           |
+| board       | /bɔːrd/         | 董事会，板                           | The board met to discuss the new policy.        | 董事会开会讨论新政策。                           |
+| location    | /loʊˈkeɪʃən/    | 位置，地点                           | The restaurant’s location is perfect.          | 餐厅的位置非常理想。                             |
+| rating      | /ˈreɪtɪŋ/        | 评分，等级                           | The movie received a high rating.              | 这部电影获得了高评分。                           |
+| rate        | /reɪt/          | 率，速度                             | The interest rate has increased.               | 利率上升了。                                     |
+| government  | /ˈɡʌvərnmənt/   | 政府，政权                           | The government announced new regulations.      | 政府宣布了新的法规。                             |
+| during      | /ˈdʊrɪŋ/        | 在...期间                           | She fell asleep during the movie.              | 她在电影期间睡着了。                             |
+| digital     | /ˈdɪdʒɪtl/      | 数字的，数码的                       | Digital cameras have replaced film cameras.    | 数码相机取代了胶卷相机。                           |
+| profile     | /ˈproʊfaɪl/     | 简介，概况                           | Update your profile on the website.            | 在网站上更新你的个人资料。                       |
+| previous    | /ˈpriːviəs/     | 以前的，之前的                       | She referred to the previous chapter.          | 她参考了前一章。                                 |
+| department  | /dɪˈpɑːrtmənt/   | 部门，系                             | He works in the marketing department.          | 他在市场部工作。                                 |
+| non         | /nɒn/           | 非，没有                             | This is a non-smoking area.                    | 这是一个禁止吸烟的区域。                         |
+| insurance   | /ɪnˈʃʊərəns/    | 保险                                 | They bought health insurance for their family.  | 他们为家人购买了健康保险。                       |
+| another     | /əˈnʌðər/       | 另一个                               | I would like another cup of coffee.            | 我想要再来一杯咖啡。                             |
+| shall       | /ʃæl/           | 应，当                               | Shall we dance?                                | 我们跳舞好吗？                                   |
+| property    | /ˈprɑːpərti/    | 财产，特性                           | He owns several properties in the city.        | 他在城市拥有几处房产。                           |
+| still       | /stɪl/          | 仍然，还                             | She is still working on the project.           | 她仍在做这个项目。                               |
+| quality     | /ˈkwɑːləti/     | 质量，特性                           | The quality of the product is excellent.       | 这个产品的质量非常好。                           |
+| visit       | /ˈvɪzɪt/        | 访问，参观                           | They plan to visit Japan next spring.          | 他们计划明年春天访问日本。                       |
+| reply       | /rɪˈplaɪ/        | 回复，答复                           | Please reply to the email as soon as possible. | 请尽快回复这封邮件。                             |
+| december    | /dɪˈsɛmbər/     | 十二月                               | Her birthday is in December.                   | 她的生日在十二月。                               |
+| compare     | /kəmˈpɛər/      | 比较，对比                           | Let’s compare the two options.                 | 让我们比较这两个选项。                           |
+| college     | /ˈkɑːlɪdʒ/      | 大学，学院                           | She graduated from college last year.          | 她去年从大学毕业。                               |
+| provide     | /prəˈvaɪd/      | 提供，供给                           | The hotel provides free breakfast.             | 酒店提供免费早餐。                               |
+| source      | /sɔːrs/         | 来源，起源                           | Water is the main source of life.               | 水是生命的主要来源。                             |
+| author      | /ˈɔːθər/        | 作者，作家                           | He is the author of several novels.             | 他是几部小说的作者。                             |
+| press       | /prɛs/          | 按，压                               | Press the button to start.                      | 按下按钮开始。                                   |
+| learn       | /lɜːrn/         | 学习                                 | I want to learn a new language.                 | 我想学习一门新语言。                             |
+| around      | /əˈraʊnd/       | 周围，附近                           | There are many restaurants around here.        | 这里周围有很多餐馆。                             |
+| course      | /kɔːrs/         | 课程，过程                           | She is taking a course in biology.              | 她正在学习生物课程。                             |
+| process     | /ˈproʊsɛs/      | 过程，步骤                           | The application process takes two weeks.       | 申请过程需要两周时间。                           |

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>自定义英文单词选择题游戏</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 引入 Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- 自定义 CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container my-4">
+    <h1 class="text-center mb-4">🎓 自定义英文单词选择题游戏 🎓</h1>
+    <!-- 题库选择部分 -->
+    <div id="bank-selection" class="card shadow-sm">
+        <div class="card-body">
+            <h2 class="card-title">📁 请选择题库</h2>
+            <ul id="bank-list" class="list-group"></ul>
+        </div>
+    </div>
+
+    <!-- 学习模式选择 -->
+    <div id="mode-selection" class="mt-4" style="display: none;">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h2 class="card-title">🎯 选择学习模式</h2>
+                <div class="d-flex justify-content-center mt-3">
+                    <button id="mode-en-cn" class="btn btn-outline-primary mx-2">英文到中文模式</button>
+                    <button id="mode-cn-en" class="btn btn-outline-success mx-2">中文到英文模式</button>
+                    <button id="mode-flip" class="btn btn-outline-warning mx-2">翻转模式</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 测验部分 -->
+    <div id="quiz-section" class="mt-4" style="display: none;">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <div class="d-flex justify-content-between mb-3">
+                    <div>题目 <span id="current-question">1</span> / <span id="total-questions">0</span></div>
+                    <div>得分：<span id="current-score">0</span></div>
+                </div>
+                <div id="question-content" class="mb-3"></div>
+                <div id="options" class="mb-3"></div>
+                <div id="feedback" class="mb-3" style="display: none;"></div>
+                <button id="next-question" class="btn btn-primary" style="display: none;">下一题</button>
+                <!-- 添加标记单词按钮 -->
+                <button id="mark-word" class="btn btn-secondary mt-2">标记为已学会</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 结果部分 -->
+    <div id="result-section" class="mt-4" style="display: none;">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h2 class="card-title">📊 测验结果</h2>
+                <p>您答对了 <strong><span id="correct-answers">0</span> / <span id="total-questions-result">0</span></strong> 道题。</p>
+                <h3>❌ 错误回顾</h3>
+                <div id="error-review"></div>
+                <button id="restart-quiz" class="btn btn-primary mt-3">重新开始测验</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- 引入 Bootstrap JS 和依赖项 -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<!-- 引入自定义 JS -->
+<script src="script.js"></script>
+</body>
+</html>

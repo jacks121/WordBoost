@@ -1,0 +1,99 @@
+| Word           | Phonetic   | Chinese Definitions               | Example Sentence                               | Sentence Translation                     |
+|----------------|------------|-----------------------------------|----------------------------------------------|------------------------------------------|
+| teen           | /tiːn/     | 青少年                           | The teen was excited to start high school.    | 那个青少年对开始上高中感到兴奋。         |
+| stock          | /stɒk/     | 库存，股票                       | The store has a limited stock of shoes.       | 这家商店的鞋子库存有限。                 |
+| training       | /ˈtreɪnɪŋ/ | 训练，培训                       | She is undergoing training to become a nurse. | 她正在接受护士的培训。                   |
+| credit         | /ˈkrɛdɪt/  | 信用，学分                       | He has good credit at the bank.               | 他在银行的信用很好。                     |
+| point          | /pɔɪnt/    | 点，分数，目的                   | The main point of the meeting was clear.      | 会议的主要目的是明确的。                 |
+| science        | /ˈsaɪəns/  | 科学                             | Science has improved our understanding of the universe. | 科学提高了我们对宇宙的理解。          |
+| men            | /mɛn/      | 男人们                           | The men worked together to finish the project. | 这些男人一起完成了项目。                |
+| advanced       | /ədˈvɑːnst/| 先进的，高级的                   | The advanced technology was impressive.       | 先进的技术令人印象深刻。                 |
+| west           | /wɛst/     | 西方，西部                       | They moved to the west coast last year.       | 他们去年搬到了西海岸。                  |
+| team           | /tiːm/     | 团队，队伍                       | Our team won the championship.                | 我们的队伍赢得了冠军。                   |
+| estate         | /ɪˈsteɪt/  | 房地产，财产                     | He inherited a large estate from his uncle.   | 他从叔叔那里继承了一大笔财产。           |
+| select         | /sɪˈlɛkt/  | 选择，挑选                       | You can select your preferred option.         | 你可以选择你喜欢的选项。                 |
+| gay            | /ɡeɪ/      | 同性恋的，快乐的                 | He is openly gay and lives in New York.       | 他公开是同性恋并住在纽约。               |
+| thread         | /θrɛd/     | 线，主线，线程                   | The thread of the conversation was lost.      | 谈话的主线被打断了。                    |
+| note           | /nəʊt/     | 便条，笔记，音符                 | She wrote a quick note before leaving.        | 她在离开前写了一张便条。                |
+| live           | /lɪv/      | 生活，居住；直播                 | They live in a small town.                    | 他们住在一个小镇。                       |
+| large          | /lɑːdʒ/    | 大的，广大的                     | The room has a large window.                  | 房间里有一扇大窗户。                     |
+| gallery        | /ˈɡaləri/  | 画廊，陈列室                     | The art gallery is showcasing new exhibits.   | 艺术画廊正在展出新的展览品。             |
+| however        | /haʊˈɛvə/  | 然而，尽管如此                   | However, I still have some doubts.            | 然而，我仍然有些疑虑。                   |
+| june           | /dʒuːn/    | 六月                             | We have a vacation planned for June.          | 我们计划在六月度假。                     |
+| october        | /ɒkˈtəʊbə/ | 十月                             | The event is scheduled for October.           | 这次活动定在十月。                       |
+| november       | /nəʊˈvɛmbə/| 十一月                           | November is often cold in our city.           | 十一月我们这里通常很冷。                 |
+| market         | /ˈmɑːkɪt/  | 市场                             | The market is very crowded on weekends.       | 周末市场非常拥挤。                       |
+| library        | /ˈlaɪbrəri/| 图书馆                           | She borrowed a book from the library.         | 她从图书馆借了一本书。                   |
+| really         | /ˈrɪəli/   | 真正地，确实                     | I really like this movie.                     | 我真的很喜欢这部电影。                   |
+| action         | /ˈakʃən/   | 行动，行为                       | The government took swift action.             | 政府迅速采取了行动。                     |
+| series         | /ˈsɪəriːz/ | 系列，连续                       | The TV series was a big hit.                  | 这部电视剧非常受欢迎。                   |
+| model          | /ˈmɒdəl/   | 模型，模特                       | The architect built a model of the building.  | 建筑师制作了一个建筑模型。               |
+| features       | /ˈfiːtʃəz/ | 特点，特征                       | The phone has many advanced features.         | 这款手机有很多先进功能。                 |
+| air            | /ɛə/       | 空气，航空                       | The air quality in the city is poor.          | 城市的空气质量很差。                     |
+| industry       | /ˈɪndəstri/| 工业，行业                       | The tech industry is rapidly growing.         | 科技行业正在快速发展。                   |
+| plan           | /plæn/     | 计划，方案                       | We need to make a plan for the weekend.       | 我们需要为周末制定一个计划。             |
+| human          | /ˈhjuːmən/ | 人类，人类的                     | Human rights must be protected.               | 人权必须得到保护。                       |
+| provided       | /prəˈvʌɪdɪd/| 提供，假如                       | You can attend the meeting, provided you are on time. | 如果你准时，你可以参加会议。            |
+| tv             | /ˈtiːˈviː/ | 电视                             | I watched a TV show last night.               | 我昨晚看了一部电视节目。                 |
+| required       | /rɪˈkwʌɪəd/| 必需的，要求                     | A password is required to access the system.  | 需要密码才能访问系统。                   |
+| second         | /ˈsɛkənd/  | 第二，秒                         | I'll be with you in a second.                 | 我马上就来。                             |
+| accessories    | /əkˈsɛsəriz/| 配件，附件                       | She bought new accessories for her phone.     | 她给她的手机买了新配件。                 |
+| cost           | /kɒst/     | 成本，花费                       | The cost of living is rising.                 | 生活成本在上升。                         |
+| movie          | /ˈmuːvi/   | 电影                             | The movie was a box-office success.           | 这部电影票房大卖。                       |
+| march          | /mɑːtʃ/    | 行军，三月                       | The soldiers began their march at dawn.       | 士兵们在黎明开始行军。                   |
+| la             | /lɑː/      | 洛杉矶 (Los Angeles 的简称)      | She lives in LA.                             | 她住在洛杉矶。                           |
+| september      | /sɛpˈtɛmbə/| 九月                             | School starts in September.                   | 学校九月开学。                           |
+| better         | /ˈbɛtə/    | 更好的                           | I feel better today than yesterday.           | 我今天感觉比昨天好。                     |
+| july           | /dʒuːˈlaɪ/ | 七月                             | It’s very hot in July.                        | 七月非常热。                             |
+| going          | /ˈɡəʊɪŋ/   | 去，进行                         | I’m going to the store.                       | 我正要去商店。                           |
+| medical        | /ˈmɛdɪkəl/ | 医疗的，医学的                   | He is studying medical science.               | 他正在学习医学。                         |
+| dec            | /dɛk/      | 十二月 (December 的缩写)          | The event will take place in Dec.             | 该活动将在十二月举行。                   |
+| server         | /ˈsɜːvə/   | 服务器，服务员                   | The server is down due to maintenance.        | 服务器因维护而关闭。                     |
+| pc             | /piː siː/  | 个人电脑 (Personal Computer)     | I need to upgrade my PC.                      | 我需要升级我的电脑。                     |
+| study          | /ˈstʌdi/   | 学习，研究                       | She is studying for her exams.                | 她正在为考试学习。                       |
+| application    | /ˌæplɪˈkeɪʃən/| 应用程序，申请                  | He submitted his job application yesterday.   | 他昨天提交了求职申请。                   |
+| cart           | /kɑːt/     | 购物车，小推车                   | I added the item to my cart.                  | 我把物品加到了购物车里。                 |
+| staff          | /stɑːf/    | 员工，职员                       | The hotel staff was very helpful.             | 酒店的员工非常乐于助人。                 |
+| articles       | /ˈɑːtɪklz/ | 文章，条款                       | She wrote several articles for the magazine.  | 她为杂志写了几篇文章。                   |
+| san            | /sæn/      | 圣 (常用于地名，如San Francisco) | San Francisco is a popular tourist destination. | 旧金山是一个受欢迎的旅游胜地。        |
+| again          | /əˈɡɛn/    | 再次，又一次                     | We will meet again tomorrow.                  | 我们明天将再次见面。                    |
+| issues         | /ˈɪʃuːz/   | 问题，议题                       | The company is facing several issues.         | 公司正面临一些问题。                    |
+| april          | /ˈeɪprɪl/  | 四月                             | She was born in April.                        | 她出生在四月。                           |
+| never          | /ˈnɛvə/    | 从不，永不                       | He never misses a deadline.                   | 他从不错过最后期限。                    |
+| users          | /ˈjuːzəz/  | 用户                             | The app has over a million users.             | 这款应用有超过一百万用户。               |
+| complete       | /kəmˈpliːt/| 完整的，完成                     | She completed the project on time.            | 她按时完成了项目。                       |
+| street         | /striːt/   | 街道                             | The street was crowded with people.           | 街上挤满了人。                           |
+| topic          | /ˈtɒpɪk/   | 话题                             | The topic of the discussion was climate change. | 讨论的话题是气候变化。                |
+| comment        | /ˈkɒmɛnt/  | 评论，注释                       | She left a comment on the post.               | 她在帖子上留下了评论。                   |
+| financial      | /faɪˈnanʃəl/| 财务的，金融的                   | The financial report was released yesterday.  | 财务报告昨天发布了。                     |
+| things         | /θɪŋz/     | 事物，东西                       | She bought a few things at the store.         | 她在商店买了一些东西。                   |
+| working        | /ˈwɜːkɪŋ/  | 工作，运作                       | He is working on a new project.               | 他正在做一个新项目。                     |
+| against        | /əˈɡɛnst/  | 反对，针对                       | They voted against the proposal.              | 他们投票反对该提案。                    |
+| standard       | /ˈstændəd/ | 标准                             | The product meets international standards.    | 该产品符合国际标准。                    |
+| tax            | /tæks/     | 税收                             | They raised the tax on tobacco.               | 他们提高了烟草税。                      |
+| person         | /ˈpɜːsn/   | 人，个人                         | The person you are looking for is not here.   | 你要找的人不在这里。                    |
+| below          | /bɪˈləʊ/   | 下面，在…以下                    | The temperature is below freezing.            | 温度在零度以下。                         |
+| mobile         | /ˈməʊbaɪl/ | 移动的，手机                     | She forgot her mobile at home.                | 她把手机忘在家里了。                    |
+| less           | /lɛs/      | 更少，较少                       | I have less time today than yesterday.        | 我今天的时间比昨天少。                   |
+| got            | /ɡɒt/      | 得到，拥有                       | I got a new phone last week.                  | 我上周买了一个新手机。                   |
+| blog           | /blɒɡ/     | 博客                             | He writes a popular blog about technology.    | 他写了一个受欢迎的科技博客。             |
+| party          | /ˈpɑːti/   | 聚会，党派                       | She threw a big party for her birthday.       | 她为自己的生日举办了一个大型聚会。       |
+| equipment      | /ɪˈkwɪpmənt/| 设备，装备                      | The gym has all the latest equipment.         | 健身房有所有最新的设备。                 |
+| student        | /ˈstjuːdənt| 学生                             | She is a college student.                     | 她是一名大学生。                         |
+| let            | /lɛt/      | 允许，让                         | Let me help you with that.                    | 让我来帮你吧。                           |
+| programs       | /ˈprəʊɡræmz/| 程序，项目                      | The company offers various training programs. | 公司提供各种培训项目。                  |
+| offers         | /ˈɒfəz/    | 提供，优惠                       | The store offers discounts on all items.      | 该商店所有商品打折。                     |
+| legal          | /ˈliːɡəl/  | 合法的，法律的                   | It’s important to know your legal rights.     | 知道你的法律权利很重要。                |
+| above          | /əˈbʌv/    | 在…上面，高于                    | The temperature is above average today.       | 今天的温度高于平均水平。                |
+| recent         | /ˈriːsnt/  | 最近的，近来的                   | His recent work has received critical praise. | 他的最近的作品得到了评论家的赞扬。       |
+| park           | /pɑːk/     | 公园，停车                       | We had a picnic in the park.                  | 我们在公园里野餐。                      |
+| stores         | /stɔːz/    | 商店，储存                       | Many stores are offering holiday sales.       | 许多商店正在进行节日促销。              |
+| side           | /saɪd/     | 旁边，侧面                       | He sat by her side during the meeting.        | 会议期间他坐在她旁边。                  |
+| act            | /ækt/      | 行为，法案，表演                 | The act of kindness made her day.             | 那个善举让她的一天变得美好。            |
+| problem        | /ˈprɒbləm/ | 问题，麻烦                       | The problem was solved quickly.               | 问题很快解决了。                         |
+| red            | /rɛd/      | 红色                             | She wore a red dress to the party.            | 她穿了一件红色连衣裙去参加聚会。        |
+| give           | /ɡɪv/      | 给，赠送                         | Please give me your contact information.      | 请给我你的联系信息。                    |
+| memory         | /ˈmɛməri/  | 记忆，回忆                       | The memory of that day still haunts her.      | 那天的回忆仍然困扰着她。                |
+| performance    | /pəˈfɔːməns/| 表演，表现                      | His performance in the play was outstanding.  | 他在剧中的表演非常出色。                |
+| social         | /ˈsəʊʃəl/ | 社交的，社会的                   | Social media is a powerful tool for communication. | 社交媒体是一个强大的交流工具。        |
+| august         | /ˈɔːɡəst/  | 八月                             | The event is planned for August.              | 该活动计划在八月举行。                   |
