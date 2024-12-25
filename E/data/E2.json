@@ -1,0 +1,683 @@
+{
+  "words": [
+    {
+      "word": "teen",
+      "phonetic": "/tiːn/",
+      "definition": "青少年",
+      "example": "The teen was excited to start high school.",
+      "translation": "那个青少年对开始上高中感到兴奋。"
+    },
+    {
+      "word": "stock",
+      "phonetic": "/stɒk/",
+      "definition": "库存，股票",
+      "example": "The store has a limited stock of shoes.",
+      "translation": "这家商店的鞋子库存有限。"
+    },
+    {
+      "word": "training",
+      "phonetic": "/ˈtreɪnɪŋ/",
+      "definition": "训练，培训",
+      "example": "She is undergoing training to become a nurse.",
+      "translation": "她正在接受护士的培训。"
+    },
+    {
+      "word": "credit",
+      "phonetic": "/ˈkrɛdɪt/",
+      "definition": "信用，学分",
+      "example": "He has good credit at the bank.",
+      "translation": "他在银行的信用很好。"
+    },
+    {
+      "word": "point",
+      "phonetic": "/pɔɪnt/",
+      "definition": "点，分数，目的",
+      "example": "The main point of the meeting was clear.",
+      "translation": "会议的主要目的是明确的。"
+    },
+    {
+      "word": "science",
+      "phonetic": "/ˈsaɪəns/",
+      "definition": "科学",
+      "example": "Science has improved our understanding of the universe.",
+      "translation": "科学提高了我们对宇宙的理解。"
+    },
+    {
+      "word": "men",
+      "phonetic": "/mɛn/",
+      "definition": "男人们",
+      "example": "The men worked together to finish the project.",
+      "translation": "这些男人一起完成了项目。"
+    },
+    {
+      "word": "advanced",
+      "phonetic": "/ədˈvɑːnst/",
+      "definition": "先进的，高级的",
+      "example": "The advanced technology was impressive.",
+      "translation": "先进的技术令人印象深刻。"
+    },
+    {
+      "word": "west",
+      "phonetic": "/wɛst/",
+      "definition": "西方，西部",
+      "example": "They moved to the west coast last year.",
+      "translation": "他们去年搬到了西海岸。"
+    },
+    {
+      "word": "team",
+      "phonetic": "/tiːm/",
+      "definition": "团队，队伍",
+      "example": "Our team won the championship.",
+      "translation": "我们的队伍赢得了冠军。"
+    },
+    {
+      "word": "estate",
+      "phonetic": "/ɪˈsteɪt/",
+      "definition": "房地产，财产",
+      "example": "He inherited a large estate from his uncle.",
+      "translation": "他从叔叔那里继承了一大笔财产。"
+    },
+    {
+      "word": "select",
+      "phonetic": "/sɪˈlɛkt/",
+      "definition": "选择，挑选",
+      "example": "You can select your preferred option.",
+      "translation": "你可以选择你喜欢的选项。"
+    },
+    {
+      "word": "gay",
+      "phonetic": "/ɡeɪ/",
+      "definition": "同性恋的，快乐的",
+      "example": "He is openly gay and lives in New York.",
+      "translation": "他公开是同性恋并住在纽约。"
+    },
+    {
+      "word": "thread",
+      "phonetic": "/θrɛd/",
+      "definition": "线，主线，线程",
+      "example": "The thread of the conversation was lost.",
+      "translation": "谈话的主线被打断了。"
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "definition": "便条，笔记，音符",
+      "example": "She wrote a quick note before leaving.",
+      "translation": "她在离开前写了一张便条。"
+    },
+    {
+      "word": "live",
+      "phonetic": "/lɪv/",
+      "definition": "生活，居住；直播",
+      "example": "They live in a small town.",
+      "translation": "他们住在一个小镇。"
+    },
+    {
+      "word": "large",
+      "phonetic": "/lɑːdʒ/",
+      "definition": "大的，广大的",
+      "example": "The room has a large window.",
+      "translation": "房间里有一扇大窗户。"
+    },
+    {
+      "word": "gallery",
+      "phonetic": "/ˈɡaləri/",
+      "definition": "画廊，陈列室",
+      "example": "The art gallery is showcasing new exhibits.",
+      "translation": "艺术画廊正在展出新的展览品。"
+    },
+    {
+      "word": "however",
+      "phonetic": "/haʊˈɛvə/",
+      "definition": "然而，尽管如此",
+      "example": "However, I still have some doubts.",
+      "translation": "然而，我仍然有些疑虑。"
+    },
+    {
+      "word": "june",
+      "phonetic": "/dʒuːn/",
+      "definition": "六月",
+      "example": "We have a vacation planned for June.",
+      "translation": "我们计划在六月度假。"
+    },
+    {
+      "word": "october",
+      "phonetic": "/ɒkˈtəʊbə/",
+      "definition": "十月",
+      "example": "The event is scheduled for October.",
+      "translation": "这次活动定在十月。"
+    },
+    {
+      "word": "november",
+      "phonetic": "/nəʊˈvɛmbə/",
+      "definition": "十一月",
+      "example": "November is often cold in our city.",
+      "translation": "十一月我们这里通常很冷。"
+    },
+    {
+      "word": "market",
+      "phonetic": "/ˈmɑːkɪt/",
+      "definition": "市场",
+      "example": "The market is very crowded on weekends.",
+      "translation": "周末市场非常拥挤。"
+    },
+    {
+      "word": "library",
+      "phonetic": "/ˈlaɪbrəri/",
+      "definition": "图书馆",
+      "example": "She borrowed a book from the library.",
+      "translation": "她从图书馆借了一本书。"
+    },
+    {
+      "word": "really",
+      "phonetic": "/ˈrɪəli/",
+      "definition": "真正地，确实",
+      "example": "I really like this movie.",
+      "translation": "我真的很喜欢这部电影。"
+    },
+    {
+      "word": "action",
+      "phonetic": "/ˈakʃən/",
+      "definition": "行动，行为",
+      "example": "The government took swift action.",
+      "translation": "政府迅速采取了行动。"
+    },
+    {
+      "word": "series",
+      "phonetic": "/ˈsɪəriːz/",
+      "definition": "系列，连续",
+      "example": "The TV series was a big hit.",
+      "translation": "这部电视剧非常受欢迎。"
+    },
+    {
+      "word": "model",
+      "phonetic": "/ˈmɒdəl/",
+      "definition": "模型，模特",
+      "example": "The architect built a model of the building.",
+      "translation": "建筑师制作了一个建筑模型。"
+    },
+    {
+      "word": "features",
+      "phonetic": "/ˈfiːtʃəz/",
+      "definition": "特点，特征",
+      "example": "The phone has many advanced features.",
+      "translation": "这款手机有很多先进功能。"
+    },
+    {
+      "word": "air",
+      "phonetic": "/ɛə/",
+      "definition": "空气，航空",
+      "example": "The air quality in the city is poor.",
+      "translation": "城市的空气质量很差。"
+    },
+    {
+      "word": "industry",
+      "phonetic": "/ˈɪndəstri/",
+      "definition": "工业，行业",
+      "example": "The tech industry is rapidly growing.",
+      "translation": "科技行业正在快速发展。"
+    },
+    {
+      "word": "plan",
+      "phonetic": "/plæn/",
+      "definition": "计划，方案",
+      "example": "We need to make a plan for the weekend.",
+      "translation": "我们需要为周末制定一个计划。"
+    },
+    {
+      "word": "human",
+      "phonetic": "/ˈhjuːmən/",
+      "definition": "人类，人类的",
+      "example": "Human rights must be protected.",
+      "translation": "人权必须得到保护。"
+    },
+    {
+      "word": "provided",
+      "phonetic": "/prəˈvʌɪdɪd/",
+      "definition": "提供，假如",
+      "example": "You can attend the meeting, provided you are on time.",
+      "translation": "如果你准时，你可以参加会议。"
+    },
+    {
+      "word": "tv",
+      "phonetic": "/ˈtiːˈviː/",
+      "definition": "电视",
+      "example": "I watched a TV show last night.",
+      "translation": "我昨晚看了一部电视节目。"
+    },
+    {
+      "word": "required",
+      "phonetic": "/rɪˈkwʌɪəd/",
+      "definition": "必需的，要求",
+      "example": "A password is required to access the system.",
+      "translation": "需要密码才能访问系统。"
+    },
+    {
+      "word": "second",
+      "phonetic": "/ˈsɛkənd/",
+      "definition": "第二，秒",
+      "example": "I'll be with you in a second.",
+      "translation": "我马上就来。"
+    },
+    {
+      "word": "accessories",
+      "phonetic": "/əkˈsɛsəriz/",
+      "definition": "配件，附件",
+      "example": "She bought new accessories for her phone.",
+      "translation": "她给她的手机买了新配件。"
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "definition": "成本，花费",
+      "example": "The cost of living is rising.",
+      "translation": "生活成本在上升。"
+    },
+    {
+      "word": "movie",
+      "phonetic": "/ˈmuːvi/",
+      "definition": "电影",
+      "example": "The movie was a box-office success.",
+      "translation": "这部电影票房大卖。"
+    },
+    {
+      "word": "march",
+      "phonetic": "/mɑːtʃ/",
+      "definition": "行军，三月",
+      "example": "The soldiers began their march at dawn.",
+      "translation": "士兵们在黎明开始行军。"
+    },
+    {
+      "word": "la",
+      "phonetic": "/lɑː/",
+      "definition": "洛杉矶 (Los Angeles 的简称)",
+      "example": "She lives in LA.",
+      "translation": "她住在洛杉矶。"
+    },
+    {
+      "word": "september",
+      "phonetic": "/sɛpˈtɛmbə/",
+      "definition": "九月",
+      "example": "School starts in September.",
+      "translation": "学校九月开学。"
+    },
+    {
+      "word": "better",
+      "phonetic": "/ˈbɛtə/",
+      "definition": "更好的",
+      "example": "I feel better today than yesterday.",
+      "translation": "我今天感觉比昨天好。"
+    },
+    {
+      "word": "july",
+      "phonetic": "/dʒuːˈlaɪ/",
+      "definition": "七月",
+      "example": "It’s very hot in July.",
+      "translation": "七月非常热。"
+    },
+    {
+      "word": "going",
+      "phonetic": "/ˈɡəʊɪŋ/",
+      "definition": "去，进行",
+      "example": "I’m going to the store.",
+      "translation": "我正要去商店。"
+    },
+    {
+      "word": "medical",
+      "phonetic": "/ˈmɛdɪkəl/",
+      "definition": "医疗的，医学的",
+      "example": "He is studying medical science.",
+      "translation": "他正在学习医学。"
+    },
+    {
+      "word": "dec",
+      "phonetic": "/dɛk/",
+      "definition": "十二月 (December 的缩写)",
+      "example": "The event will take place in Dec.",
+      "translation": "该活动将在十二月举行。"
+    },
+    {
+      "word": "server",
+      "phonetic": "/ˈsɜːvə/",
+      "definition": "服务器，服务员",
+      "example": "The server is down due to maintenance.",
+      "translation": "服务器因维护而关闭。"
+    },
+    {
+      "word": "pc",
+      "phonetic": "/piː siː/",
+      "definition": "个人电脑 (Personal Computer)",
+      "example": "I need to upgrade my PC.",
+      "translation": "我需要升级我的电脑。"
+    },
+    {
+      "word": "study",
+      "phonetic": "/ˈstʌdi/",
+      "definition": "学习，研究",
+      "example": "She is studying for her exams.",
+      "translation": "她正在为考试学习。"
+    },
+    {
+      "word": "application",
+      "phonetic": "/ˌæplɪˈkeɪʃən/",
+      "definition": "应用程序，申请",
+      "example": "He submitted his job application yesterday.",
+      "translation": "他昨天提交了求职申请。"
+    },
+    {
+      "word": "cart",
+      "phonetic": "/kɑːt/",
+      "definition": "购物车，小推车",
+      "example": "I added the item to my cart.",
+      "translation": "我把物品加到了购物车里。"
+    },
+    {
+      "word": "staff",
+      "phonetic": "/stɑːf/",
+      "definition": "员工，职员",
+      "example": "The hotel staff was very helpful.",
+      "translation": "酒店的员工非常乐于助人。"
+    },
+    {
+      "word": "articles",
+      "phonetic": "/ˈɑːtɪklz/",
+      "definition": "文章，条款",
+      "example": "She wrote several articles for the magazine.",
+      "translation": "她为杂志写了几篇文章。"
+    },
+    {
+      "word": "san",
+      "phonetic": "/sæn/",
+      "definition": "圣 (常用于地名，如San Francisco)",
+      "example": "San Francisco is a popular tourist destination.",
+      "translation": "旧金山是一个受欢迎的旅游胜地。"
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡɛn/",
+      "definition": "再次，又一次",
+      "example": "We will meet again tomorrow.",
+      "translation": "我们明天将再次见面。"
+    },
+    {
+      "word": "issues",
+      "phonetic": "/ˈɪʃuːz/",
+      "definition": "问题，议题",
+      "example": "The company is facing several issues.",
+      "translation": "公司正面临一些问题。"
+    },
+    {
+      "word": "april",
+      "phonetic": "/ˈeɪprɪl/",
+      "definition": "四月",
+      "example": "She was born in April.",
+      "translation": "她出生在四月。"
+    },
+    {
+      "word": "never",
+      "phonetic": "/ˈnɛvə/",
+      "definition": "从不，永不",
+      "example": "He never misses a deadline.",
+      "translation": "他从不错过最后期限。"
+    },
+    {
+      "word": "users",
+      "phonetic": "/ˈjuːzəz/",
+      "definition": "用户",
+      "example": "The app has over a million users.",
+      "translation": "这款应用有超过一百万用户。"
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "definition": "完整的，完成",
+      "example": "She completed the project on time.",
+      "translation": "她按时完成了项目。"
+    },
+    {
+      "word": "street",
+      "phonetic": "/striːt/",
+      "definition": "街道",
+      "example": "The street was crowded with people.",
+      "translation": "街上挤满了人。"
+    },
+    {
+      "word": "topic",
+      "phonetic": "/ˈtɒpɪk/",
+      "definition": "话题",
+      "example": "The topic of the discussion was climate change.",
+      "translation": "讨论的话题是气候变化。"
+    },
+    {
+      "word": "comment",
+      "phonetic": "/ˈkɒmɛnt/",
+      "definition": "评论，注释",
+      "example": "She left a comment on the post.",
+      "translation": "她在帖子上留下了评论。"
+    },
+    {
+      "word": "financial",
+      "phonetic": "/faɪˈnanʃəl/",
+      "definition": "财务的，金融的",
+      "example": "The financial report was released yesterday.",
+      "translation": "财务报告昨天发布了。"
+    },
+    {
+      "word": "things",
+      "phonetic": "/θɪŋz/",
+      "definition": "事物，东西",
+      "example": "She bought a few things at the store.",
+      "translation": "她在商店买了一些东西。"
+    },
+    {
+      "word": "working",
+      "phonetic": "/ˈwɜːkɪŋ/",
+      "definition": "工作，运作",
+      "example": "He is working on a new project.",
+      "translation": "他正在做一个新项目。"
+    },
+    {
+      "word": "against",
+      "phonetic": "/əˈɡɛnst/",
+      "definition": "反对，针对",
+      "example": "They voted against the proposal.",
+      "translation": "他们投票反对该提案。"
+    },
+    {
+      "word": "standard",
+      "phonetic": "/ˈstændəd/",
+      "definition": "标准",
+      "example": "The product meets international standards.",
+      "translation": "该产品符合国际标准。"
+    },
+    {
+      "word": "tax",
+      "phonetic": "/tæks/",
+      "definition": "税收",
+      "example": "They raised the tax on tobacco.",
+      "translation": "他们提高了烟草税。"
+    },
+    {
+      "word": "person",
+      "phonetic": "/ˈpɜːsn/",
+      "definition": "人，个人",
+      "example": "The person you are looking for is not here.",
+      "translation": "你要找的人不在这里。"
+    },
+    {
+      "word": "below",
+      "phonetic": "/bɪˈləʊ/",
+      "definition": "下面，在…以下",
+      "example": "The temperature is below freezing.",
+      "translation": "温度在零度以下。"
+    },
+    {
+      "word": "mobile",
+      "phonetic": "/ˈməʊbaɪl/",
+      "definition": "移动的，手机",
+      "example": "She forgot her mobile at home.",
+      "translation": "她把手机忘在家里了。"
+    },
+    {
+      "word": "less",
+      "phonetic": "/lɛs/",
+      "definition": "更少，较少",
+      "example": "I have less time today than yesterday.",
+      "translation": "我今天的时间比昨天少。"
+    },
+    {
+      "word": "got",
+      "phonetic": "/ɡɒt/",
+      "definition": "得到，拥有",
+      "example": "I got a new phone last week.",
+      "translation": "我上周买了一个新手机。"
+    },
+    {
+      "word": "blog",
+      "phonetic": "/blɒɡ/",
+      "definition": "博客",
+      "example": "He writes a popular blog about technology.",
+      "translation": "他写了一个受欢迎的科技博客。"
+    },
+    {
+      "word": "party",
+      "phonetic": "/ˈpɑːti/",
+      "definition": "聚会，党派",
+      "example": "She threw a big party for her birthday.",
+      "translation": "她为自己的生日举办了一个大型聚会。"
+    },
+    {
+      "word": "equipment",
+      "phonetic": "/ɪˈkwɪpmənt/",
+      "definition": "设备，装备",
+      "example": "The gym has all the latest equipment.",
+      "translation": "健身房有所有最新的设备。"
+    },
+    {
+      "word": "student",
+      "phonetic": "/ˈstjuːdənt/",
+      "definition": "学生",
+      "example": "She is a college student.",
+      "translation": "她是一名大学生。"
+    },
+    {
+      "word": "let",
+      "phonetic": "/lɛt/",
+      "definition": "允许，让",
+      "example": "Let me help you with that.",
+      "translation": "让我来帮你吧。"
+    },
+    {
+      "word": "programs",
+      "phonetic": "/ˈprəʊɡræmz/",
+      "definition": "程序，项目",
+      "example": "The company offers various training programs.",
+      "translation": "公司提供各种培训项目。"
+    },
+    {
+      "word": "offers",
+      "phonetic": "/ˈɒfəz/",
+      "definition": "提供，优惠",
+      "example": "The store offers discounts on all items.",
+      "translation": "该商店所有商品打折。"
+    },
+    {
+      "word": "legal",
+      "phonetic": "/ˈliːɡəl/",
+      "definition": "合法的，法律的",
+      "example": "It’s important to know your legal rights.",
+      "translation": "知道你的法律权利很重要。"
+    },
+    {
+      "word": "above",
+      "phonetic": "/əˈbʌv/",
+      "definition": "在…上面，高于",
+      "example": "The temperature is above average today.",
+      "translation": "今天的温度高于平均水平。"
+    },
+    {
+      "word": "recent",
+      "phonetic": "/ˈriːsnt/",
+      "definition": "最近的，近来的",
+      "example": "His recent work has received critical praise.",
+      "translation": "他的最近的作品得到了评论家的赞扬。"
+    },
+    {
+      "word": "park",
+      "phonetic": "/pɑːk/",
+      "definition": "公园，停车",
+      "example": "We had a picnic in the park.",
+      "translation": "我们在公园里野餐。"
+    },
+    {
+      "word": "stores",
+      "phonetic": "/stɔːz/",
+      "definition": "商店，储存",
+      "example": "Many stores are offering holiday sales.",
+      "translation": "许多商店正在进行节日促销。"
+    },
+    {
+      "word": "side",
+      "phonetic": "/saɪd/",
+      "definition": "旁边，侧面",
+      "example": "He sat by her side during the meeting.",
+      "translation": "会议期间他坐在她旁边。"
+    },
+    {
+      "word": "act",
+      "phonetic": "/ækt/",
+      "definition": "行为，法案，表演",
+      "example": "The act of kindness made her day.",
+      "translation": "那个善举让她的一天变得美好。"
+    },
+    {
+      "word": "problem",
+      "phonetic": "/ˈprɒbləm/",
+      "definition": "问题，麻烦",
+      "example": "The problem was solved quickly.",
+      "translation": "问题很快解决了。"
+    },
+    {
+      "word": "red",
+      "phonetic": "/rɛd/",
+      "definition": "红色",
+      "example": "She wore a red dress to the party.",
+      "translation": "她穿了一件红色连衣裙去参加聚会。"
+    },
+    {
+      "word": "give",
+      "phonetic": "/ɡɪv/",
+      "definition": "给，赠送",
+      "example": "Please give me your contact information.",
+      "translation": "请给我你的联系信息。"
+    },
+    {
+      "word": "memory",
+      "phonetic": "/ˈmɛməri/",
+      "definition": "记忆，回忆",
+      "example": "The memory of that day still haunts her.",
+      "translation": "那天的回忆仍然困扰着她。"
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "definition": "表演，表现",
+      "example": "His performance in the play was outstanding.",
+      "translation": "他在剧中的表演非常出色。"
+    },
+    {
+      "word": "social",
+      "phonetic": "/ˈsəʊʃəl/",
+      "definition": "社交的，社会的",
+      "example": "Social media is a powerful tool for communication.",
+      "translation": "社交媒体是一个强大的交流工具。"
+    },
+    {
+      "word": "august",
+      "phonetic": "/ˈɔːɡəst/",
+      "definition": "八月",
+      "example": "The event is planned for August.",
+      "translation": "该活动计划在八月举行。"
+    }
+  ]
+} 

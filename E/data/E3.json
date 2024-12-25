@@ -1,0 +1,655 @@
+{
+  "words": [
+    {
+      "word": "when",
+      "phonetic": "/wɛn/",
+      "definition": "当…时，什么时候",
+      "example": "When it rains, I like to read a book.",
+      "translation": "下雨的时候，我喜欢看书。"
+    },
+    {
+      "word": "been",
+      "phonetic": "/bɪn/",
+      "definition": "已经，到过，去过",
+      "example": "She has been to Paris twice.",
+      "translation": "她已经去过巴黎两次。"
+    },
+    {
+      "word": "would",
+      "phonetic": "/wʊd/",
+      "definition": "会，愿意，想要",
+      "example": "I would like a cup of tea, please.",
+      "translation": "我想要一杯茶，谢谢。"
+    },
+    {
+      "word": "than",
+      "phonetic": "/ðæn/",
+      "definition": "比，超过",
+      "example": "She is taller than her brother.",
+      "translation": "她比她的兄弟高。"
+    },
+    {
+      "word": "through",
+      "phonetic": "/θruː/",
+      "definition": "通过，穿过，自始至终",
+      "example": "We walked through the park yesterday.",
+      "translation": "我们昨天穿过公园散步。"
+    },
+    {
+      "word": "general",
+      "phonetic": "/ˈdʒɛnərəl/",
+      "definition": "一般的，普遍的，总体的",
+      "example": "In general, people enjoy sunny days.",
+      "translation": "一般来说，人们喜欢晴天。"
+    },
+    {
+      "word": "research",
+      "phonetic": "/rɪˈsɜːrtʃ/",
+      "definition": "研究，调查，探索",
+      "example": "He is conducting research on renewable energy.",
+      "translation": "他正在进行可再生能源的研究。"
+    },
+    {
+      "word": "university",
+      "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+      "definition": "大学，高等学府",
+      "example": "She will attend university next year.",
+      "translation": "她明年将上大学。"
+    },
+    {
+      "word": "should",
+      "phonetic": "/ʃʊd/",
+      "definition": "应该，应当",
+      "example": "You should eat more vegetables.",
+      "translation": "你应该多吃蔬菜。"
+    },
+    {
+      "word": "policy",
+      "phonetic": "/ˈpɑːləsi/",
+      "definition": "政策，方针，保险单",
+      "example": "The company has a new privacy policy.",
+      "translation": "公司有一项新的隐私政策。"
+    },
+    {
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "definition": "可获得的，有空的，可用的",
+      "example": "The book is available in the library.",
+      "translation": "这本书在图书馆有。"
+    },
+    {
+      "word": "copyright",
+      "phonetic": "/ˈkɒpiraɪt/",
+      "definition": "版权，著作权",
+      "example": "She owns the copyright to her photographs.",
+      "translation": "她拥有自己照片的版权。"
+    },
+    {
+      "word": "support",
+      "phonetic": "/səˈpɔːrt/",
+      "definition": "支持，支撑，援助",
+      "example": "They offer support to all their customers.",
+      "translation": "他们为所有客户提供支持。"
+    },
+    {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "definition": "方式，道路，方法",
+      "example": "There are many ways to solve this problem.",
+      "translation": "有很多方法可以解决这个问题。"
+    },
+    {
+      "word": "management",
+      "phonetic": "/ˈmænɪdʒmənt/",
+      "definition": "管理，经营，处理",
+      "example": "She works in management at a tech company.",
+      "translation": "她在一家科技公司担任管理职位。"
+    },
+    {
+      "word": "part",
+      "phonetic": "/pɑːrt/",
+      "definition": "部分，角色，部件",
+      "example": "He played a major part in the project.",
+      "translation": "他在项目中扮演了重要角色。"
+    },
+    {
+      "word": "could",
+      "phonetic": "/kʊd/",
+      "definition": "能够，可能",
+      "example": "She could help you with your homework.",
+      "translation": "她可以帮助你做作业。"
+    },
+    {
+      "word": "great",
+      "phonetic": "/ɡreɪt/",
+      "definition": "伟大的，重要的，极好的",
+      "example": "They had a great time at the party.",
+      "translation": "他们在聚会上玩得很开心。"
+    },
+    {
+      "word": "united",
+      "phonetic": "/juˈnaɪtɪd/",
+      "definition": "联合的，一致的",
+      "example": "The United States is a large country.",
+      "translation": "美国是一个大国家。"
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "definition": "必须，必需",
+      "example": "You must wear a helmet when biking.",
+      "translation": "骑自行车时必须戴头盔。"
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævəl/",
+      "definition": "旅行，游历，移动",
+      "example": "I love to travel around the world.",
+      "translation": "我喜欢环游世界。"
+    },
+    {
+      "word": "report",
+      "phonetic": "/rɪˈpɔːrt/",
+      "definition": "报告，汇报，报道",
+      "example": "She will report the findings tomorrow.",
+      "translation": "她将在明天汇报研究结果。"
+    },
+    {
+      "word": "member",
+      "phonetic": "/ˈmɛmbər/",
+      "definition": "成员，会员",
+      "example": "He is a member of the local gym.",
+      "translation": "他是当地健身房的会员。"
+    },
+    {
+      "word": "terms",
+      "phonetic": "/tɜːrmz/",
+      "definition": "条款，术语，学期",
+      "example": "Please read the terms and conditions carefully.",
+      "translation": "请仔细阅读条款和条件。"
+    },
+    {
+      "word": "before",
+      "phonetic": "/bɪˈfɔːr/",
+      "definition": "在…之前，先于",
+      "example": "Finish your homework before dinner.",
+      "translation": "晚餐前完成作业。"
+    },
+    {
+      "word": "because",
+      "phonetic": "/bɪˈkɔːz/",
+      "definition": "因为，由于",
+      "example": "I stayed home because it was raining.",
+      "translation": "因为下雨，我待在家里。"
+    },
+    {
+      "word": "those",
+      "phonetic": "/ðoʊz/",
+      "definition": "那些",
+      "example": "Those books are mine.",
+      "translation": "那些书是我的。"
+    },
+    {
+      "word": "education",
+      "phonetic": "/ˌɛdʒuˈkeɪʃən/",
+      "definition": "教育，培养",
+      "example": "Education is important for personal growth.",
+      "translation": "教育对个人成长很重要。"
+    },
+    {
+      "word": "national",
+      "phonetic": "/ˈnæʃənl/",
+      "definition": "国家的，民族的",
+      "example": "She works for a national newspaper.",
+      "translation": "她在一家国家级报社工作。"
+    },
+    {
+      "word": "design",
+      "phonetic": "/dɪˈzaɪn/",
+      "definition": "设计，构思，安排",
+      "example": "The new design is both functional and stylish.",
+      "translation": "新设计既实用又时尚。"
+    },
+    {
+      "word": "take",
+      "phonetic": "/teɪk/",
+      "definition": "拿，接受，获得",
+      "example": "Please take this book with you.",
+      "translation": "请带上这本书。"
+    },
+    {
+      "word": "community",
+      "phonetic": "/kəˈmjuːnɪti/",
+      "definition": "社区，团体",
+      "example": "The community organized a cleanup event.",
+      "translation": "社区组织了一次清洁活动。"
+    },
+    {
+      "word": "within",
+      "phonetic": "/wɪˈðɪn/",
+      "definition": "在…之内",
+      "example": "You must complete the task within an hour.",
+      "translation": "你必须在一小时内完成任务。"
+    },
+    {
+      "word": "shipping",
+      "phonetic": "/ˈʃɪpɪŋ/",
+      "definition": "运输，航运",
+      "example": "Shipping costs have increased this year.",
+      "translation": "今年运输成本上升了。"
+    },
+    {
+      "word": "reserved",
+      "phonetic": "/rɪˈzɜːrvd/",
+      "definition": "保留的，预定的",
+      "example": "The table is reserved for two.",
+      "translation": "这张桌子为两人预定的。"
+    },
+    {
+      "word": "subject",
+      "phonetic": "/ˈsʌbdʒɪkt/",
+      "definition": "主题，科目，实验对象",
+      "example": "Mathematics is my favorite subject.",
+      "translation": "数学是我最喜欢的科目。"
+    },
+    {
+      "word": "forum",
+      "phonetic": "/ˈfɔːrəm/",
+      "definition": "论坛，讨论会",
+      "example": "They discussed the issue on the online forum.",
+      "translation": "他们在在线论坛上讨论了这个问题。"
+    },
+    {
+      "word": "even",
+      "phonetic": "/ˈiːvən/",
+      "definition": "甚至，即使",
+      "example": "She didn't even say goodbye.",
+      "translation": "她甚至没有说再见。"
+    },
+    {
+      "word": "special",
+      "phonetic": "/ˈspɛʃəl/",
+      "definition": "特别的，专门的",
+      "example": "They have a special offer this weekend.",
+      "translation": "他们这个周末有一个特别优惠。"
+    },
+    {
+      "word": "being",
+      "phonetic": "/ˈbiːɪŋ/",
+      "definition": "存在，生物",
+      "example": "Being honest is important.",
+      "translation": "诚实是很重要的。"
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "definition": "标志，符号，迹象",
+      "example": "Look at the sign to find the restroom.",
+      "translation": "看标志找到洗手间。"
+    },
+    {
+      "word": "technology",
+      "phonetic": "/tɛkˈnɑːlədʒi/",
+      "definition": "技术，工艺",
+      "example": "Technology is advancing rapidly.",
+      "translation": "技术正在迅速发展。"
+    },
+    {
+      "word": "south",
+      "phonetic": "/saʊθ/",
+      "definition": "南方",
+      "example": "They traveled south for the winter.",
+      "translation": "他们冬天向南方旅行。"
+    },
+    {
+      "word": "section",
+      "phonetic": "/ˈsɛkʃən/",
+      "definition": "部分，章节，部门",
+      "example": "Please read the first section of the book.",
+      "translation": "请阅读书的第一部分。"
+    },
+    {
+      "word": "own",
+      "phonetic": "/oʊn/",
+      "definition": "自己的，拥有",
+      "example": "She has her own business.",
+      "translation": "她有自己的生意。"
+    },
+    {
+      "word": "found",
+      "phonetic": "/faʊnd/",
+      "definition": "找到，发现，创立",
+      "example": "They founded the company in 2010.",
+      "translation": "他们于2010年创立了公司。"
+    },
+    {
+      "word": "sports",
+      "phonetic": "/spɔːrts/",
+      "definition": "体育，运动",
+      "example": "He enjoys playing various sports.",
+      "translation": "他喜欢进行各种运动。"
+    },
+    {
+      "word": "related",
+      "phonetic": "/rɪˈleɪtɪd/",
+      "definition": "相关的，有关的",
+      "example": "These documents are related to the case.",
+      "translation": "这些文件与案件有关。"
+    },
+    {
+      "word": "both",
+      "phonetic": "/boʊθ/",
+      "definition": "两者",
+      "example": "Both options are viable.",
+      "translation": "两个选项都是可行的。"
+    },
+    {
+      "word": "county",
+      "phonetic": "/ˈkaʊnti/",
+      "definition": "郡，县",
+      "example": "She lives in a small county.",
+      "translation": "她住在一个小县城。"
+    },
+    {
+      "word": "place",
+      "phonetic": "/pleɪs/",
+      "definition": "地方，场所，职位",
+      "example": "This is a beautiful place to relax.",
+      "translation": "这里是一个放松的美丽地方。"
+    },
+    {
+      "word": "following",
+      "phonetic": "/ˈfɑːloʊɪŋ/",
+      "definition": "如下，跟随",
+      "example": "Following the instructions, you can assemble it.",
+      "translation": "按照说明，你可以组装它。"
+    },
+    {
+      "word": "without",
+      "phonetic": "/wɪˈðaʊt/",
+      "definition": "没有，缺乏",
+      "example": "She left without saying goodbye.",
+      "translation": "她没有说再见就离开了。"
+    },
+    {
+      "word": "per",
+      "phonetic": "/pər/",
+      "definition": "每",
+      "example": "The cost is $10 per person.",
+      "translation": "每人费用是10美元。"
+    },
+    {
+      "word": "access",
+      "phonetic": "/ˈæksɛs/",
+      "definition": "访问，进入，获取",
+      "example": "You need a password to access the system.",
+      "translation": "你需要密码才能访问系统。"
+    },
+    {
+      "word": "north",
+      "phonetic": "/nɔːrθ/",
+      "definition": "北方",
+      "example": "They are heading north for the summer.",
+      "translation": "他们夏天向北方前进。"
+    },
+    {
+      "word": "law",
+      "phonetic": "/lɔː/",
+      "definition": "法律，法规",
+      "example": "Everyone must obey the law.",
+      "translation": "每个人都必须遵守法律。"
+    },
+    {
+      "word": "art",
+      "phonetic": "/ɑːrt/",
+      "definition": "艺术，美术",
+      "example": "She studies art at the university.",
+      "translation": "她在大学学习艺术。"
+    },
+    {
+      "word": "personal",
+      "phonetic": "/ˈpɜːrsənl/",
+      "definition": "个人的，私人的",
+      "example": "This is a personal matter.",
+      "translation": "这是私人的事情。"
+    },
+    {
+      "word": "since",
+      "phonetic": "/sɪns/",
+      "definition": "自...以来，鉴于",
+      "example": "I have lived here since 2015.",
+      "translation": "我自2015年以来一直住在这里。"
+    },
+    {
+      "word": "including",
+      "phonetic": "/ɪnˈkluːdɪŋ/",
+      "definition": "包括，包含",
+      "example": "The price is $50, including tax.",
+      "translation": "价格是50美元，包括税费。"
+    },
+    {
+      "word": "guide",
+      "phonetic": "/ɡaɪd/",
+      "definition": "指南，指引",
+      "example": "She used a map to guide her journey.",
+      "translation": "她用地图指引她的旅程。"
+    },
+    {
+      "word": "directory",
+      "phonetic": "/dəˈrɛktəri/",
+      "definition": "目录，索引",
+      "example": "You can find the information in the directory.",
+      "translation": "你可以在目录中找到信息。"
+    },
+    {
+      "word": "board",
+      "phonetic": "/bɔːrd/",
+      "definition": "董事会，板",
+      "example": "The board met to discuss the new policy.",
+      "translation": "董事会开会讨论新政策。"
+    },
+    {
+      "word": "location",
+      "phonetic": "/loʊˈkeɪʃən/",
+      "definition": "位置，地点",
+      "example": "The restaurant’s location is perfect.",
+      "translation": "餐厅的位置非常理想。"
+    },
+    {
+      "word": "rating",
+      "phonetic": "/ˈreɪtɪŋ/",
+      "definition": "评分，等级",
+      "example": "The movie received a high rating.",
+      "translation": "这部电影获得了高评分。"
+    },
+    {
+      "word": "rate",
+      "phonetic": "/reɪt/",
+      "definition": "率，速度",
+      "example": "The interest rate has increased.",
+      "translation": "利率上升了。"
+    },
+    {
+      "word": "government",
+      "phonetic": "/ˈɡʌvərnmənt/",
+      "definition": "政府，政权",
+      "example": "The government announced new regulations.",
+      "translation": "政府宣布了新的法规。"
+    },
+    {
+      "word": "during",
+      "phonetic": "/ˈdʊrɪŋ/",
+      "definition": "在...期间",
+      "example": "She fell asleep during the movie.",
+      "translation": "她在电影期间睡着了。"
+    },
+    {
+      "word": "digital",
+      "phonetic": "/ˈdɪdʒɪtl/",
+      "definition": "数字的，数码的",
+      "example": "Digital cameras have replaced film cameras.",
+      "translation": "数码相机取代了胶卷相机。"
+    },
+    {
+      "word": "profile",
+      "phonetic": "/ˈproʊfaɪl/",
+      "definition": "简介，概况",
+      "example": "Update your profile on the website.",
+      "translation": "在网站上更新你的个人资料。"
+    },
+    {
+      "word": "previous",
+      "phonetic": "/ˈpriːviəs/",
+      "definition": "以前的，之前的",
+      "example": "She referred to the previous chapter.",
+      "translation": "她参考了前一章。"
+    },
+    {
+      "word": "department",
+      "phonetic": "/dɪˈpɑːrtmənt/",
+      "definition": "部门，系",
+      "example": "He works in the marketing department.",
+      "translation": "他在市场部工作。"
+    },
+    {
+      "word": "non",
+      "phonetic": "/nɒn/",
+      "definition": "非，没有",
+      "example": "This is a non-smoking area.",
+      "translation": "这是一个禁止吸烟的区域。"
+    },
+    {
+      "word": "insurance",
+      "phonetic": "/ɪnˈʃʊərəns/",
+      "definition": "保险",
+      "example": "They bought health insurance for their family.",
+      "translation": "他们为家人购买了健康保险。"
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðər/",
+      "definition": "另一个",
+      "example": "I would like another cup of coffee.",
+      "translation": "我想要再来一杯咖啡。"
+    },
+    {
+      "word": "shall",
+      "phonetic": "/ʃæl/",
+      "definition": "应，当",
+      "example": "Shall we dance?",
+      "translation": "我们跳舞好吗？"
+    },
+    {
+      "word": "property",
+      "phonetic": "/ˈprɑːpərti/",
+      "definition": "财产，特性",
+      "example": "He owns several properties in the city.",
+      "translation": "他在城市拥有几处房产。"
+    },
+    {
+      "word": "still",
+      "phonetic": "/stɪl/",
+      "definition": "仍然，还",
+      "example": "She is still working on the project.",
+      "translation": "她仍在做这个项目。"
+    },
+    {
+      "word": "quality",
+      "phonetic": "/ˈkwɑːləti/",
+      "definition": "质量，特性",
+      "example": "The quality of the product is excellent.",
+      "translation": "这个产品的质量非常好。"
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "definition": "访问，参观",
+      "example": "They plan to visit Japan next spring.",
+      "translation": "他们计划明年春天访问日本。"
+    },
+    {
+      "word": "reply",
+      "phonetic": "/rɪˈplaɪ/",
+      "definition": "回复，答复",
+      "example": "Please reply to the email as soon as possible.",
+      "translation": "请尽快回复这封邮件。"
+    },
+    {
+      "word": "december",
+      "phonetic": "/dɪˈsɛmbər/",
+      "definition": "十二月",
+      "example": "Her birthday is in December.",
+      "translation": "她的生日在十二月。"
+    },
+    {
+      "word": "compare",
+      "phonetic": "/kəmˈpɛər/",
+      "definition": "比较，对比",
+      "example": "Let’s compare the two options.",
+      "translation": "让我们比较这两个选项。"
+    },
+    {
+      "word": "college",
+      "phonetic": "/ˈkɑːlɪdʒ/",
+      "definition": "大学，学院",
+      "example": "She graduated from college last year.",
+      "translation": "她去年从大学毕业。"
+    },
+    {
+      "word": "provide",
+      "phonetic": "/prəˈvaɪd/",
+      "definition": "提供，供给",
+      "example": "The hotel provides free breakfast.",
+      "translation": "酒店提供免费早餐。"
+    },
+    {
+      "word": "source",
+      "phonetic": "/sɔːrs/",
+      "definition": "来源，起源",
+      "example": "Water is the main source of life.",
+      "translation": "水是生命的主要来源。"
+    },
+    {
+      "word": "author",
+      "phonetic": "/ˈɔːθər/",
+      "definition": "作者，作家",
+      "example": "He is the author of several novels.",
+      "translation": "他是几部小说的作者。"
+    },
+    {
+      "word": "press",
+      "phonetic": "/prɛs/",
+      "definition": "按，压",
+      "example": "Press the button to start.",
+      "translation": "按下按钮开始。"
+    },
+    {
+      "word": "learn",
+      "phonetic": "/lɜːrn/",
+      "definition": "学习",
+      "example": "I want to learn a new language.",
+      "translation": "我想学习一门新语言。"
+    },
+    {
+      "word": "around",
+      "phonetic": "/əˈraʊnd/",
+      "definition": "周围，附近",
+      "example": "There are many restaurants around here.",
+      "translation": "这里周围有很多餐馆。"
+    },
+    {
+      "word": "course",
+      "phonetic": "/kɔːrs/",
+      "definition": "课程，过程",
+      "example": "She is taking a course in biology.",
+      "translation": "她正在学习生物课程。"
+    },
+    {
+      "word": "process",
+      "phonetic": "/ˈproʊsɛs/",
+      "definition": "过程，步骤",
+      "example": "The application process takes two weeks.",
+      "translation": "申请过程需要两周时间。"
+    }
+  ]
+} 

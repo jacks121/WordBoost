@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>翻转卡片模式 - 自定义英文单词选择题游戏</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container my-4">
+    <h1 class="text-center mb-4">翻转卡片模式</h1>
+
+    <!-- 题库选择 -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <h2 class="card-title h5">选择题库</h2>
+            <select id="word-bank" class="form-select">
+                <option value="E1">题库1</option>
+                <option value="E2">题库2</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- 进度显示 -->
+    <div class="progress mb-4">
+        <div id="progress-bar" class="progress-bar" role="progressbar" style="width: 0%"></div>
+    </div>
+
+    <!-- 卡片计数 -->
+    <div class="text-center mb-4">
+        <span id="current-number">0</span> / <span id="total-number">0</span>
+    </div>
+
+    <!-- 翻转卡片 -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <div id="flip-card" class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <div id="question" class="text-center">
+                            <!-- 英文单词和音标 -->
+                        </div>
+                        <div class="text-muted mt-4">按住查看答案</div>
+                    </div>
+                    <div class="flip-card-back">
+                        <div id="answer" class="text-center">
+                            <!-- 中文释义、例句和翻译 -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 操作按钮 -->
+    <div class="text-center mt-4">
+        <button id="mark-known" class="btn btn-success btn-lg me-3">
+            <i class="bi bi-check-lg"></i> 已掌握
+        </button>
+        <button id="mark-unknown" class="btn btn-danger btn-lg">
+            <i class="bi bi-x-lg"></i> 需要复习
+        </button>
+    </div>
+</div>
+
+<!-- 返回按钮 -->
+<a href="index.html" class="back-button">
+    <i class="bi bi-arrow-left"></i>
+</a>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/common.js"></script>
+<script src="js/feature3.js"></script>
+</body>
+</html> 

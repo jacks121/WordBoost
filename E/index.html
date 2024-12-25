@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>自定义英文单词选择题游戏</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container my-4">
+    <h1 class="text-center mb-4">英文单词记忆</h1>
+    
+    <div class="row">
+        <!-- 英文到中文模式 -->
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">📝 英文到中文模式</h5>
+                    <p class="card-text">显示英文单词，从多个选项中选择正确的中文释义。适合测试对单词含义的理解。</p>
+                    <a href="feature1.html" class="btn btn-primary">开始学习</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 中文到英文模式 -->
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">🔤 中文到英文模式</h5>
+                    <p class="card-text">显示中文释义，从多个选项中选择正确的英文单词。适合加强单词记忆和拼写。</p>
+                    <a href="feature2.html" class="btn btn-success">开始学习</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 翻转卡片模式 -->
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">🔄 翻转卡片模式</h5>
+                    <p class="card-text">通过翻转卡片查看单词释义，并标记已掌握和需要复习的单词。适合自主学习。</p>
+                    <a href="feature3.html" class="btn btn-warning">开始学习</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 清除数据按钮 -->
+    <div class="text-center mt-4">
+        <button id="clear-data" class="btn btn-outline-danger">
+            <i class="bi bi-trash"></i> 清除学习记录
+        </button>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+$(document).ready(function() {
+    $('#clear-data').click(function() {
+        if (confirm('确定要清除所有学习记录吗？这将重置所有已掌握的单词记录。')) {
+            // 清除所有以 mastered_ 开头的localStorage数据
+            Object.keys(localStorage).forEach(key => {
+                if (key.startsWith('mastered_')) {
+                    localStorage.removeItem(key);
+                }
+            });
+            alert('学习记录已清除！');
+        }
+    });
+});
+</script>
+</body>
+</html>
